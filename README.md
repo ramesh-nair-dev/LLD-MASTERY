@@ -31,7 +31,8 @@ These projects extend the notes into **real-world, working systems**:
 - 🎮 [TicTacToe](https://github.com/ramesh-nair-dev/TicTacToe) – Classic game built with OOP & Builder Pattern.  
 - 🅿️ [Parking Lot](https://github.com/ramesh-nair-dev/Parkinglot) – Object-oriented modeling of real-world parking management.  
 - 🎟️ [BookMyShow](https://github.com/ramesh-nair-dev/BookMyShow) – Ticket booking system with layered architecture & clean abstractions.  
-- 💸 [SplitWise](https://github.com/ramesh-nair-dev/SplitWise) – Expense sharing platform with service-oriented breakdown.  
+- 💸 [SplitWise](https://github.com/ramesh-nair-dev/SplitWise) – Expense sharing platform with service-oriented breakdown.
+- 🐍 [Snake And Ladder](https://github.com/ramesh-nair-dev/Snake-and-Ladder/tree/main) - Snake and Ladder game with OOP & (Builder + Strategy) Pattern
 
 ---
 
